@@ -44,7 +44,7 @@ input, select, textarea, button {
     font-family: sans-serif;
     font-size: 1em;
     color: black;
-    border-radius: 5px;
+    border-radius: 7px;
 }
 
 /* Elementos de classe "grupo" nos estados das pseudoclasses "before" e "after" */
